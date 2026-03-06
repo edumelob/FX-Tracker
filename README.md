@@ -30,7 +30,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fx-tracker.git
+git clone (https://github.com/edumelob/FX-Tracker)
 cd fx-tracker
 ```
 
